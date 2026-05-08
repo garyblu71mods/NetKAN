@@ -1,3 +1,4 @@
+<<<<<<< add-kerbvisionir
 spec_version: v1.4
 identifier: KerbVisionIR
 name: KerbVisionIR
@@ -18,3 +19,20 @@ install:
   - find: KerbVisionIR
     install_to: GameData
     filter_regexp: \.pdb$
+=======
+identifier: KerbVisionIR
+$kref: '#/ckan/github/garyblu71mods/SimpleNV'
+$vref: '#/ckan/ksp-avc'
+---
+identifier: KerbVisionIR
+$kref: '#/ckan/spacedock/4105'
+x_netkan_force_v: true
+$vref: '#/ckan/ksp-avc'
+tags:
+  - config
+  - graphics
+install:
+  - find: KerbVisionIR
+    install_to: GameData
+    filter_regexp: \.pdb$
+>>>>>>> master
