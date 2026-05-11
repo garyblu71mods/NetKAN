@@ -1,12 +1,12 @@
 identifier: KerbVisionIR
 name: KerbVisionIR
-abstract: Night vision mod for Kerbal Space Program — monochrome/green NV with brightness, vignette, grain and scanline controls
-author:
-  - garyblu71mods
+abstract: >-
+  Night vision mod for Kerbal Space Program — monochrome/green NV with
+  brightness, vignette, grain and scanline controls
+author: garyblu71mods
 $kref: '#/ckan/spacedock/4105'
-$vref: '#/ckan/ksp-avc'
 x_netkan_force_v: true
-license: MIT
+$vref: '#/ckan/ksp-avc'
 tags:
   - config
   - graphics
